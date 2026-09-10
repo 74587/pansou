@@ -77,6 +77,7 @@ import (
 	_ "pansou/plugin/qupanshe"
 	_ "pansou/plugin/rrbt"
 	_ "pansou/plugin/shandian"
+	_ "pansou/plugin/sopanya"
 	_ "pansou/plugin/sousou"
 	_ "pansou/plugin/susu"
 	_ "pansou/plugin/thepiratebay"
